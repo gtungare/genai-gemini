@@ -1,4 +1,4 @@
-# 🚀 Gemini AI Exploration & Google Search Integration
+#  Gemini AI Exploration & Google Search Integration
 
 This repository contains Jupyter Notebooks demonstrating the use of **Gemini AI models** for various tasks, including **text processing, ChromaDB integration, and intelligent Google Search queries**.
 
@@ -15,7 +15,7 @@ This repository contains Jupyter Notebooks demonstrating the use of **Gemini AI 
 - **ChromaDB Integration**: Enhancing retrieval-augmented generation (RAG) workflows.
 - **Gemini 2.0 Flash with Google Search**: Combining AI reasoning with live search capabilities.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1️⃣ **Clone the Repository**
 ```bash
